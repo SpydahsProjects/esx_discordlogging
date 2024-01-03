@@ -19,13 +19,13 @@ This bot will send alert directly on your discord server , easy to install.
 2.Clone the repository
 
 ```
-////
+https://github.com/SpydahsProjects/esx_discordlogging
 ```
 
 3.Add "_start esx\_discord\_bot_" to your server.cfg
 
 4.Create your Discord Bot
-
+-
 1.	Go to your server settings :
 [display image](http://prntscr.com/gx298g)
 
@@ -33,6 +33,7 @@ This bot will send alert directly on your discord server , easy to install.
 [display image](http://prntscr.com/gx2ai7)
 
 3. Copy the webhook link
+-
 
 5.Edit **config.lua** from _esx\_discord\_bot_ and paste your **webhook link**
 
